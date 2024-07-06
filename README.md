@@ -1,4 +1,3 @@
-# personalised-indian-recipie
 # Indian Recipe Generator
 
 This is a PyQt5 application for generating Indian recipes based on seed text, region, and cooking method. The application uses a deep learning model trained in Google Colab to generate recipes.
@@ -20,7 +19,7 @@ This is a PyQt5 application for generating Indian recipes based on seed text, re
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/indian_recipe_generator.git
+    git clone https://github.com/grusha15/indian_recipe_generator.git
     cd indian_recipe_generator
     ```
 
@@ -37,9 +36,6 @@ This is a PyQt5 application for generating Indian recipes based on seed text, re
 4. Run the application:
     ```bash
     python app.py
-
-5. Dataset Link
-   https://www.kaggle.com/datasets/sukhmandeepsinghbrar/indian-food-dataset?resource=download
     ```
 
 ## Usage
