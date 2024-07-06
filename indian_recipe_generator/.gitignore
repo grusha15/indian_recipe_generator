@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+my_model.keras
+tokenizer.pickle
